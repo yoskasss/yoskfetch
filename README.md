@@ -48,4 +48,4 @@ python sistem_bilgisi.py --color blue
 
 
 # Exe Olarak Kullanma
-[İndirme Linki](https://www.dosya.tc/server/s9u5ar/yoskfetch.zip.html)
+## [İndirme Linki](https://www.dosya.tc/server/s9u5ar/yoskfetch.zip.html)
