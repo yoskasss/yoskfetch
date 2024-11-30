@@ -2,6 +2,7 @@
 
 Bu Python programı, çalıştırıldığı ortamın sistem bilgilerini ve ASCII sanatı renkli bir şekilde konsola yazdırır. Sistem bilgilerini daha eğlenceli bir şekilde görselleştirmek isteyenler için geliştirilmiştir.
 
+
 ## Özellikler
 
 - Sistem bilgilerini (işletim sistemi, kernel, cihaz adı vb.) gösterir.
@@ -43,3 +44,6 @@ python sistem_bilgisi.py -c green
 ```python
 python sistem_bilgisi.py --color blue
 ```
+
+
+# Exe Olarak Kullanma
