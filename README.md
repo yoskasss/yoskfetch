@@ -2,6 +2,7 @@
 
 Bu Python programı, çalıştırıldığı ortamın sistem bilgilerini ve ASCII sanatı renkli bir şekilde konsola yazdırır. Sistem bilgilerini daha eğlenceli bir şekilde görselleştirmek isteyenler için geliştirilmiştir.
 
+## [Exe Olarak Kullan](https://github.com/yoskasss/yoskfetch/blob/main/README.md#exe-olarak-kullanma) / / / / / / / [Python Üzerinden Kullan](https://github.com/yoskasss/yoskfetch?tab=readme-ov-file#kullan%C4%B1m)
 
 ## Özellikler
 
