@@ -25,7 +25,7 @@ pip install rich
 
 Programı çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
 ```python
-python sistem_bilgisi.py [-c <renk>]
+python yoskfetch.py [-c <renk>]
 ```
 ### Seçenekler
 
@@ -35,15 +35,15 @@ python sistem_bilgisi.py [-c <renk>]
 
 #### Varsayılan renk ile çalıştırma:
 ```python
-python sistem_bilgisi.py
+python yoskfetch.py
 ```
 #### Yeşil renk ile çalıştırma:
 ```python
-python sistem_bilgisi.py -c green
+python yoskfetch.py -c green
 ```
 #### Mavi renk ile çalıştırma:
 ```python
-python sistem_bilgisi.py --color blue
+python yoskfetch.py --color blue
 ```
 
 
